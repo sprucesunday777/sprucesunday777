@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sprucesunday777
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data 
-- 📫 How to reach me nsisongsunday7778@gmail.com
+- 👋 Hi, my name is Nsisong. Welcome to my Github profile!
+- 👀 I'm interested in health, Business,Food/agriculture informatics and love working with health,food and business data!
+- 🌱 I am a food process Engineer and a data scientist 
+- 💞️ My stacks are; Python, Scikit-learn,tensorflow, pandas,numpy, Tableau, Excel
+- 📫 How to reach me nsisongsunday7778@gmail.com, Twitter:spruceC1 and on LinkedIn; Nsisong Sunday
 
 <!---
 sprucesunday777/sprucesunday777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
